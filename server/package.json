@@ -12,13 +12,13 @@
   "license": "GPLv3",
   "dependencies": {
     "aws-sdk": "^2.847.0",
-    "axios": "^0.21.2",
+    "axios": "^0.21.3",
     "canvas": "^2.6.1",
     "cheerio": "^1.0.0-rc.5",
     "dotenv": "^8.2.0",
     "epub-gen": "^0.1.0",
     "https-proxy-agent": "^5.0.0",
-    "ioredis": "^4.22.0",
+    "ioredis": "^4.27.8",
     "minimist": "^1.2.6",
     "sanitize-filename": "^1.6.3",
     "socket.io": "^2.4.1"
